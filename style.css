@@ -1,0 +1,117 @@
+body{
+background-color: black ;
+}
+span{
+  color: white ;
+  
+}
+.alinhar{
+  display: flex;
+flex-direction: row; 
+}
+.luffy{
+   margin-right: 5px ;
+   
+}
+.zoro{
+  
+}
+.sanji{
+  margin-right: 3px ;
+  
+}
+.chopper{
+  margin-left: 15px ;
+  
+}
+
+.fonteh1{
+  display: flex;
+justify-content: center;
+ text-align: center;
+ 
+
+  
+}
+.geekhits{
+  display: flex;
+  color: white;
+}
+.shounens{
+  color:white ;
+}
+.dbs{
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.cordbs{
+  color: white ;
+  
+}
+.imgdbs{
+  display: flex;
+  justify-content: center; 
+}
+.s{
+  color: white ;
+  
+}
+.subir{
+  padding-top: 25px ;
+}
+.nrc{
+  display: flex;
+  justify-content: center;
+}
+.cornrc{
+  color: white ;
+  
+  
+}
+.sn{
+  color: white ;
+  
+}
+.op{
+  display: flex;
+justify-content: center;
+
+
+  
+}
+.corop{
+  color: white ;
+}
+  .imgop{
+    display: flex;
+    justify-content: center;
+    
+    
+  }
+.sop{
+  color: white ;
+  
+}
+.jk{
+  display: flex;
+  justify-content: center;
+}
+.corjk{
+  color: white ;
+  
+}
+.sjk{
+  color: white ;
+  
+}
+.rodape{
+  display: flex;
+  flex-direction: row;
+  
+  
+  
+}
+
+  
